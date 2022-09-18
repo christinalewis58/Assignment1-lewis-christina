@@ -1,0 +1,26 @@
+body {
+	background-color: bisque;
+	background-size: cover;
+	font-family: bree, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	margin:10px 5 20px;
+	text-align:center;
+}
+
+.container {
+    background: white;
+	background-color: #fdfbfb;
+    max-width: 550px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+h1 {
+font-weight: 700;
+}
+
+h2 {
+font-weight: 300;
+}
